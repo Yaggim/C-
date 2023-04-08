@@ -1,0 +1,7 @@
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio8 Años Bisiestos\Ejercicio8 Años bisiestos\Ejercicio8 Años bisiestos\bin\Debug\Ejercicio8 Años bisiestos.exe.config
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio8 Años Bisiestos\Ejercicio8 Años bisiestos\Ejercicio8 Años bisiestos\bin\Debug\Ejercicio8 Años bisiestos.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio8 Años Bisiestos\Ejercicio8 Años bisiestos\Ejercicio8 Años bisiestos\bin\Debug\Ejercicio8 Años bisiestos.pdb
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio8 Años Bisiestos\Ejercicio8 Años bisiestos\Ejercicio8 Años bisiestos\obj\Debug\Ejercicio8 Años bisiestos.csproj.AssemblyReference.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio8 Años Bisiestos\Ejercicio8 Años bisiestos\Ejercicio8 Años bisiestos\obj\Debug\Ejercicio8 Años bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio8 Años Bisiestos\Ejercicio8 Años bisiestos\Ejercicio8 Años bisiestos\obj\Debug\Ejercicio8 Años bisiestos.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio8 Años Bisiestos\Ejercicio8 Años bisiestos\Ejercicio8 Años bisiestos\obj\Debug\Ejercicio8 Años bisiestos.pdb

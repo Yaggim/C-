@@ -1,0 +1,7 @@
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio11 Digitos\Ejercicio11 Digitos\Ejercicio11 Digitos\bin\Debug\Ejercicio11 Digitos.exe.config
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio11 Digitos\Ejercicio11 Digitos\Ejercicio11 Digitos\bin\Debug\Ejercicio11 Digitos.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio11 Digitos\Ejercicio11 Digitos\Ejercicio11 Digitos\bin\Debug\Ejercicio11 Digitos.pdb
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio11 Digitos\Ejercicio11 Digitos\Ejercicio11 Digitos\obj\Debug\Ejercicio11 Digitos.csproj.AssemblyReference.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio11 Digitos\Ejercicio11 Digitos\Ejercicio11 Digitos\obj\Debug\Ejercicio11 Digitos.csproj.CoreCompileInputs.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio11 Digitos\Ejercicio11 Digitos\Ejercicio11 Digitos\obj\Debug\Ejercicio11 Digitos.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio11 Digitos\Ejercicio11 Digitos\Ejercicio11 Digitos\obj\Debug\Ejercicio11 Digitos.pdb

@@ -1,0 +1,6 @@
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb

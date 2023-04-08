@@ -1,0 +1,7 @@
+C:\Users\yaggi\source\repos\Ejercicio6 Triangulos\Ejercicio6 Triangulos\bin\Debug\Ejercicio6 Triangulos.exe.config
+C:\Users\yaggi\source\repos\Ejercicio6 Triangulos\Ejercicio6 Triangulos\bin\Debug\Ejercicio6 Triangulos.exe
+C:\Users\yaggi\source\repos\Ejercicio6 Triangulos\Ejercicio6 Triangulos\bin\Debug\Ejercicio6 Triangulos.pdb
+C:\Users\yaggi\source\repos\Ejercicio6 Triangulos\Ejercicio6 Triangulos\obj\Debug\Ejercicio6 Triangulos.csproj.AssemblyReference.cache
+C:\Users\yaggi\source\repos\Ejercicio6 Triangulos\Ejercicio6 Triangulos\obj\Debug\Ejercicio6 Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\yaggi\source\repos\Ejercicio6 Triangulos\Ejercicio6 Triangulos\obj\Debug\Ejercicio6 Triangulos.exe
+C:\Users\yaggi\source\repos\Ejercicio6 Triangulos\Ejercicio6 Triangulos\obj\Debug\Ejercicio6 Triangulos.pdb

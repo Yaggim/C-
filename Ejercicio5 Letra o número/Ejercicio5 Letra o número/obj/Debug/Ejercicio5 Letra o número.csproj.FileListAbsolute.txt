@@ -1,0 +1,7 @@
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio5 Letra o número\Ejercicio5 Letra o número\bin\Debug\Ejercicio5 Letra o número.exe.config
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio5 Letra o número\Ejercicio5 Letra o número\bin\Debug\Ejercicio5 Letra o número.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio5 Letra o número\Ejercicio5 Letra o número\bin\Debug\Ejercicio5 Letra o número.pdb
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio5 Letra o número\Ejercicio5 Letra o número\obj\Debug\Ejercicio5 Letra o número.csproj.AssemblyReference.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio5 Letra o número\Ejercicio5 Letra o número\obj\Debug\Ejercicio5 Letra o número.csproj.CoreCompileInputs.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio5 Letra o número\Ejercicio5 Letra o número\obj\Debug\Ejercicio5 Letra o número.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio5 Letra o número\Ejercicio5 Letra o número\obj\Debug\Ejercicio5 Letra o número.pdb

@@ -1,0 +1,7 @@
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\bin\Debug\Ejercicio9 Más corta y larga.exe.config
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\bin\Debug\Ejercicio9 Más corta y larga.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\bin\Debug\Ejercicio9 Más corta y larga.pdb
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\obj\Debug\Ejercicio9 Más corta y larga.csproj.AssemblyReference.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\obj\Debug\Ejercicio9 Más corta y larga.csproj.CoreCompileInputs.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\obj\Debug\Ejercicio9 Más corta y larga.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\Ejercicio9 Más corta y larga\obj\Debug\Ejercicio9 Más corta y larga.pdb

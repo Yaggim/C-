@@ -1,0 +1,7 @@
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio10 Indice de masa corporal\Ejer10 Indice de masa corporal\Ejer10 Indice de masa corporal\bin\Debug\Ejer10 Indice de masa corporal.exe.config
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio10 Indice de masa corporal\Ejer10 Indice de masa corporal\Ejer10 Indice de masa corporal\bin\Debug\Ejer10 Indice de masa corporal.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio10 Indice de masa corporal\Ejer10 Indice de masa corporal\Ejer10 Indice de masa corporal\bin\Debug\Ejer10 Indice de masa corporal.pdb
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio10 Indice de masa corporal\Ejer10 Indice de masa corporal\Ejer10 Indice de masa corporal\obj\Debug\Ejer10 Indice de masa corporal.csproj.AssemblyReference.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio10 Indice de masa corporal\Ejer10 Indice de masa corporal\Ejer10 Indice de masa corporal\obj\Debug\Ejer10 Indice de masa corporal.csproj.CoreCompileInputs.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio10 Indice de masa corporal\Ejer10 Indice de masa corporal\Ejer10 Indice de masa corporal\obj\Debug\Ejer10 Indice de masa corporal.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Repaso\Ejercicio10 Indice de masa corporal\Ejer10 Indice de masa corporal\Ejer10 Indice de masa corporal\obj\Debug\Ejer10 Indice de masa corporal.pdb

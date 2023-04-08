@@ -1,0 +1,7 @@
+C:\Users\yaggi\source\repos\Ejercicio7 Suma entre numeros\Ejercicio7 Suma entre numeros\bin\Debug\Ejercicio7 Suma entre numeros.exe.config
+C:\Users\yaggi\source\repos\Ejercicio7 Suma entre numeros\Ejercicio7 Suma entre numeros\bin\Debug\Ejercicio7 Suma entre numeros.exe
+C:\Users\yaggi\source\repos\Ejercicio7 Suma entre numeros\Ejercicio7 Suma entre numeros\bin\Debug\Ejercicio7 Suma entre numeros.pdb
+C:\Users\yaggi\source\repos\Ejercicio7 Suma entre numeros\Ejercicio7 Suma entre numeros\obj\Debug\Ejercicio7 Suma entre numeros.csproj.AssemblyReference.cache
+C:\Users\yaggi\source\repos\Ejercicio7 Suma entre numeros\Ejercicio7 Suma entre numeros\obj\Debug\Ejercicio7 Suma entre numeros.csproj.CoreCompileInputs.cache
+C:\Users\yaggi\source\repos\Ejercicio7 Suma entre numeros\Ejercicio7 Suma entre numeros\obj\Debug\Ejercicio7 Suma entre numeros.exe
+C:\Users\yaggi\source\repos\Ejercicio7 Suma entre numeros\Ejercicio7 Suma entre numeros\obj\Debug\Ejercicio7 Suma entre numeros.pdb
