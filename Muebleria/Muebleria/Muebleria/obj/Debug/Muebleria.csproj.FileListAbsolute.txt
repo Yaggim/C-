@@ -1,0 +1,14 @@
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\bin\Debug\Muebleria.exe.config
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\bin\Debug\Muebleria.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\bin\Debug\Muebleria.pdb
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\obj\Debug\Muebleria.csproj.AssemblyReference.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\obj\Debug\Muebleria.Properties.Resources.resources
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\obj\Debug\Muebleria.csproj.GenerateResource.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\obj\Debug\Muebleria.csproj.CoreCompileInputs.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\obj\Debug\Muebleria.exe
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\obj\Debug\Muebleria.pdb
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\bin\Debug\MisClases.dll
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\bin\Debug\MisClases.pdb
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\obj\Debug\Muebleria.csproj.CopyComplete
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\obj\Debug\Muebleria.MostrarObjetosDelCamion.resources
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\Muebleria\obj\Debug\Muebleria.AgregarObjetosAlCamion.resources

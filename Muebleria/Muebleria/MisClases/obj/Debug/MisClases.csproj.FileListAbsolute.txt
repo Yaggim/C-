@@ -1,0 +1,6 @@
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\MisClases\bin\Debug\MisClases.dll
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\MisClases\bin\Debug\MisClases.pdb
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\MisClases\obj\Debug\MisClases.csproj.AssemblyReference.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\MisClases\obj\Debug\MisClases.csproj.CoreCompileInputs.cache
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\MisClases\obj\Debug\MisClases.dll
+C:\Users\yaggi\OneDrive\Escritorio\UPE\Tecnicas de programción\Muebleria\Muebleria\MisClases\obj\Debug\MisClases.pdb
